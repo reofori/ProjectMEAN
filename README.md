@@ -17,5 +17,5 @@ This project is a documentation guide for setting up a MEAN (MongoDb,ExpressJs,A
    - Sign in to the AWS Management Console.
    - Navigate to EC2 Dashboard.
    - Click on "Launch Instance" and choose Ubuntu Server 24.04 LTS as the operating system.
-![launch instance)](image/launch%20instance)
+![launch instance)](image/launch%20instance.png)
 
