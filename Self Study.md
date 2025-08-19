@@ -1,4 +1,4 @@
-# Understanding the OSI Model
+# Understanding the OSI Model.
 
 ## Introduction
 
